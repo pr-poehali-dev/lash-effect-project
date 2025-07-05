@@ -1,22 +1,24 @@
+@import url("https://fonts.googleapis.com/css2?family=Cormorant:wght@400;600;700&family=Source+Sans+Pro:wght@300;400;600;700&display=swap");
+
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
 
 @layer base {
   :root {
-    --background: 0 0% 100%;
+    --background: 31 26% 97%;
     --foreground: 222.2 84% 4.9%;
 
-    --card: 0 0% 100%;
+    --card: 31 26% 97%;
     --card-foreground: 222.2 84% 4.9%;
 
-    --popover: 0 0% 100%;
+    --popover: 31 26% 97%;
     --popover-foreground: 222.2 84% 4.9%;
 
-    --primary: 222.2 47.4% 11.2%;
-    --primary-foreground: 210 40% 98%;
+    --primary: 36 19% 84%;
+    --primary-foreground: 222.2 47.4% 11.2%;
 
-    --secondary: 210 40% 96.1%;
+    --secondary: 36 19% 84%;
     --secondary-foreground: 222.2 47.4% 11.2%;
 
     --muted: 210 40% 96.1%;
